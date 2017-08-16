@@ -1,4 +1,5 @@
 # -devops-aula02
 Vin Diesel
-Paul Walker
+Angelina Jolie
 50 Cent
+Eminem
